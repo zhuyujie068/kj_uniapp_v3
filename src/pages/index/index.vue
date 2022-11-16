@@ -15,6 +15,9 @@ export default {
     }
   },
   onLoad() {},
+  onShow() {
+    console.log('1111');
+  },
   methods: {},
 }
 </script>
